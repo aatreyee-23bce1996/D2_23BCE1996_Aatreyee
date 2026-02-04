@@ -1,0 +1,8 @@
+PROJECT AND TITLE
+
+Problem Statement: Downscaling of Satellite based air quality map using AI/ML
+P.S Code: SIH1734 @ SIH2024
+Filed Under Clean and Green Technology
+By ISRO
+
+Plenty of low-res high level satellite imaging is available but this is difficult to extrapolate on a more localised scale. The problem statement aims to use ML to enhance coarse resolution satellite data (for example, pollutants like NO2) into finer spatial resolution to address gaps and monitor air quality.
